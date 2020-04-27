@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lets Play a Game</string>
+    <string name="what_game_are_we_playing_today">What game are we playing today?</string>
+    <string name="add_game">Add Game</string>
+    <string name="what_game_are_we_playing">What game are we playing?</string>
+    <string name="decide">DECIDE!</string>
+    <string name="icon_for_app">Icon for app</string>
+    <string name="enter_a_game_you_d_like_to_play">Enter a Game you\'d like to play...</string>
+</resources>
